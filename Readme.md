@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="netflix-icon.jpg" alt="Web App Sample" width="600"/>
+</p>
+
+---
+
 # Netflix Shows Analysis
 
 **Data Source:** [Kaggle Netflix Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)

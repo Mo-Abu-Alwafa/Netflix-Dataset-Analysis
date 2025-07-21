@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="netflix-icon.jpg" alt="Web App Sample" width="600"/>
+  <img src="netflix-icon.jpg" alt="Web App Sample" width="400"/>
 </p>
 
 ---
